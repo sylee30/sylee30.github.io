@@ -1,0 +1,247 @@
+[
+
+
+
+  
+
+  
+    ,{
+      "title"			: "Case Studies",
+      "link"			: "/documentation/case-studies.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "CmdStan",
+      "link"			: "/interfaces/cmdstan.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+    ,{
+      "title"			: "Development Team",
+      "link"			: "/team/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Development",
+      "link"			: "/development/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Interfaces",
+      "link"			: "/interfaces/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Education research",
+      "link"			: "/education/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Funding",
+      "link"			: "/funding/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Community",
+      "link"			: "/community/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Documentation",
+      "link"			: "/documentation/",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+    ,{
+      "title"			: "Citations",
+      "link"			: "/citations/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Events",
+      "link"			: "/events/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Issues",
+      "link"			: "/issues/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Shop",
+      "link"			: "/shop/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Support",
+      "link"			: "/support/",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+    ,{
+      "title"			: "Stan@NIPS2015",
+      "link"			: "/nips/",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: "Stan.jl",
+      "link"			: "/interfaces/julia-stan.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Loo",
+      "link"			: "/interfaces/loo.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+    ,{
+      "title"			: "Stan Math Library",
+      "link"			: "/interfaces/math.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "MatlabStan",
+      "link"			: "/interfaces/matlab-stan.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Stan@NIPS2015",
+      "link"			: "/misc/nips.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "PyStan",
+      "link"			: "/interfaces/pystan.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "RStan",
+      "link"			: "/interfaces/rstan.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "RStanArm",
+      "link"			: "/interfaces/rstanarm.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+
+  
+    ,{
+      "title"			: "ShinyStan",
+      "link"			: "/interfaces/shinystan.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Stan C++",
+      "link"			: "/interfaces/stan.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "StataStan",
+      "link"			: "/interfaces/stata-stan.html",
+      "excerpt"		: ""
+    }
+  
+
+]
