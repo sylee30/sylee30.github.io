@@ -12,14 +12,15 @@ image:
 ## Tutorials
 * Two-Parameter Logistic Item Response Model
 
-&nbsp;&nbsp;[View](case-studies/tutorial_twopl.html) <span class="note">(HTML)</span>
-&nbsp;&nbsp;<p>
-  <a href="http://mc-stan.org/documentation/case-studies.html#two-parameter-logistic-item-response-model/">Abstract and other information</a> &nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;[View](case-studies/tutorial_twopl.html) <span class="note">(HTML)</span>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<p>
+  <a href="http://mc-stan.org/documentation/case-studies.html#two-parameter-logistic-item-response-model">Abstract and other information</a> &nbsp;
   <span class="note">(from DOCS/Case Studies)
   </span> </p>
 
-&nbsp;&nbsp;Author
-&nbsp;&nbsp;: Daniel C. Furr, Seung Yeon Lee, Joon-Ho Lee, and Sophia Rabe-Hesketh
+&nbsp;&nbsp;&nbsp;&nbsp;Author
+&nbsp;&nbsp;&nbsp;&nbsp;: Daniel C. Furr, Seung Yeon Lee, Joon-Ho Lee, and Sophia Rabe-Hesketh
 
 &nbsp;&nbsp;Date
 &nbsp;&nbsp;: May 03, 2016
