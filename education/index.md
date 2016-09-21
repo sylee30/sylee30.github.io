@@ -12,14 +12,17 @@ image:
 ## Tutorials
 * Two-Parameter Logistic Item Response Model
 
-[View](case-studies/tutorial_twopl.html) <span class="note">(HTML)</span>
-[Abstract and other information] (http://mc-stan.org/documentation/case-studies.html#two-parameter-logistic-item-response-model) <span class="note">(HTML)</span>
+&nbsp;&nbsp;[View](case-studies/tutorial_twopl.html) <span class="note">(HTML)</span>
+&nbsp;&nbsp;<p>
+  <a href="http://mc-stan.org/documentation/case-studies.html#two-parameter-logistic-item-response-model/">Abstract and other information</a> &nbsp;
+  <span class="note">(from DOCS/Case Studies)
+  </span> </p>
 
-Author
-: Daniel C. Furr, Seung Yeon Lee, Joon-Ho Lee, and Sophia Rabe-Hesketh
+&nbsp;&nbsp;Author
+&nbsp;&nbsp;: Daniel C. Furr, Seung Yeon Lee, Joon-Ho Lee, and Sophia Rabe-Hesketh
 
-Date
-: May 03, 2016
+&nbsp;&nbsp;Date
+&nbsp;&nbsp;: May 03, 2016
 
 ## Hierarchical Two-Parameter Logistic Item Response Model 
 
