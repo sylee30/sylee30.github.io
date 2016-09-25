@@ -17,7 +17,7 @@ image:
   * Binary 
     * [Hierarchical Two-Parameter Logistic Item Response Model](case-studies/hierarchical_2pl.html) &nbsp; <small>[(Abstract)](http://mc-stan.org/documentation/case-studies.html#hierarchical-two-parameter-logistic-item-response-model)</small>
     * [Rasch Model with Latent Regression](case-studies/rasch_latent_reg.html) &nbsp; <small>[(Abstract)](http://mc-stan.org/documentation/case-studies.html#rasch-model-with-latent-regression)
-    * [Two-Parameter Logistic Model with Latent Regression](case-studies/2pl_latent_reg.html) &nbsp; [(Abstract)](http://mc-stan.org/documentation/case-studies.html#two-parameter-logistic-model-with-latent-regression)</small>
+    * [Two-Parameter Logistic Model with Latent Regression](case-studies/2pl_latent_reg.html) &nbsp; <small>[(Abstract)](http://mc-stan.org/documentation/case-studies.html#two-parameter-logistic-model-with-latent-regression)</small>
 
   * Polytomous
     * [Rating Scale Model with Latent Regression](case-studies/rsm_latent_reg.html) &nbsp; <small>[(Abstract)](http://mc-stan.org/documentation/case-studies.html#rating-scale-model-with-latent-regression)</small>
