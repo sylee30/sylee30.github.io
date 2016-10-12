@@ -10,7 +10,7 @@ image:
 ---
 
 # Tutorials
-* [Two-Parameter Logistic Item Response Model](case-studies/tutorial_twopl.html) &nbsp; <small>[(Abstract)](http://mc-stan.org/documentation/case-studies.html#two-parameter-logistic-item-response-model)</small>
+* [Two-Parameter Logistic Item Response Model](case-studies/tutorial_twopl.html) &nbsp; <small>[(Abstract)](../documentation/case-studies#two-parameter-logistic-item-response-model)</small>
 
 # Case Studies
 * Item Response Theory Models
