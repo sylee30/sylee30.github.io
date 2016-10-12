@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Education research
+title: Education research using Stan
 excerpt: ""
 modified: 
 image:
@@ -28,3 +28,12 @@ image:
 * Cognitive Diagnosis Models
     * [DINA with independent attributes]
     * [Higher-oder DINA]
+
+# Test
+<details>
+<summary><small>nested</small> stuff</summary><p>
+<!-- alternative placement of p shown above -->
+* list
+* with
+
+</p></details>
