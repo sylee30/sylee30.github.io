@@ -36,14 +36,17 @@ image:
 # Publications
 <details>
 <summary>Education-related publications on Stan</summary><p>
+<small>
 * Robert L. Grant, Daniel C. Furr, Bob Carpenter, and Andrew Gelman. 2016. Fitting Bayesian
 item response models in Stata and Stan. arXiv 1601.03443.
 
 * Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
+</small>
 </p></details>
 
 <details>
 <summary>Education-related publications using Stan</summary><p>
+<small>
 * Gale, Julia, et al. "Student nurse selection and predictability of academic success:
 The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127.
 
@@ -51,10 +54,11 @@ The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127.
 * Tan, Jessica Yik Chian. 2013. Mathematical modelling and statistical analysis of
 school-based student performance data. Thesis. School of Mathematical Sciences.
 University of Adelaide. https://digital.library.adelaide.edu.au/dspace/handle/2440/83277
-
+</small>
 </p></details>
 
 <details>
+<small>
 <summary>Possible papers and “leads”</summary><p>
 * Johan Braeken at CEMO, Norway 
 
@@ -76,6 +80,6 @@ Journal Of Experimental Psychology: General 145(1):56–81.
 speed up: Working memory differences in unbounded dependencies.
 Frontiers in Psychology, Special Issue on Encoding and Navigating
 Linguistic Representations in Memory (in press).
+</small>
 </p>
-
 </details>
