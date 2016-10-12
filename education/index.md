@@ -38,8 +38,9 @@ Robert L. Grant, Daniel C. Furr, Bob Carpenter, and Andrew Gelman. 2016. Fitting
 item response models in Stata and Stan. arXiv 1601.03443.
 
 Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
-</p>
+</p></details>
 
+<details>
 <summary>Education-related publications using Stan</summary><p>
 Gale, Julia, et al. "Student nurse selection and predictability of academic success:
 The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127.
@@ -50,8 +51,9 @@ school-based student performance data. Thesis. School of Mathematical Sciences.
 University of Adelaide.
 https://digital.library.adelaide.edu.au/dspace/handle/2440/83277
 
-</p>
+</p></details>
 
+<details>
 <summary>Possible papers and “leads”</summary><p>
 Johan Braeken at CEMO, Norway 
 
