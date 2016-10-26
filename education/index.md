@@ -38,10 +38,10 @@ image:
 <summary>Education-related publications on Stan</summary><p>
 
 <small>
-..* Robert L. Grant, Daniel C. Furr, Bob Carpenter, and Andrew Gelman. 2016. Fitting Bayesian item response models in Stata and Stan. arXiv 1601.03443.</small>
+> Robert L. Grant, Daniel C. Furr, Bob Carpenter, and Andrew Gelman. 2016. Fitting Bayesian item response models in Stata and Stan. arXiv 1601.03443.</small>
 
 <small>
-..* Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
+> Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
 </small>
 
 </p></details>
@@ -49,8 +49,8 @@ image:
 <details>
 <summary>Education-related publications using Stan</summary><p>
 <small>
-..* Gale, Julia, et al. "Student nurse selection and predictability of academic success: The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127.
+> Gale, Julia, et al. "Student nurse selection and predictability of academic success: The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127.
 
-..* Tan, Jessica Yik Chian. 2013. Mathematical modelling and statistical analysis of school-based student performance data. Thesis. School of Mathematical Sciences. University of Adelaide. https://digital.library.adelaide.edu.au/dspace/handle/2440/83277
+> Tan, Jessica Yik Chian. 2013. Mathematical modelling and statistical analysis of school-based student performance data. Thesis. School of Mathematical Sciences. University of Adelaide. https://digital.library.adelaide.edu.au/dspace/handle/2440/83277
 </small>
 </p></details>
