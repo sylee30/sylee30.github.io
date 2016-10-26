@@ -26,22 +26,22 @@ image:
     * [Generalized Partial Credit Model with Latent Regression](case-studies/gpcm_latent_reg.html) &nbsp; <small>[_(Abstract)_](../documentation/case-studies#generalized-partial-credit-model-with-latent-regression)</small>
 
 * Cognitive Diagnosis Models
-    * [DINA with independent attributes]
-    * [Higher-oder DINA]
+    * [DINA with independent attributes](case-studies/dina_independence.html) 
+    * Higher-order DINA
 
 # R packages
-* edstan: Stan Models for Item Response Theory
-* rstanarm: Bayesian Applied Regression Modeling via Stan
+* [edstan: Stan Models for Item Response Theory](https://cran.rstudio.com/web/packages/edstan/)
+* [rstanarm: Bayesian Applied Regression Modeling via Stan](https://cran.rstudio.com/web/packages/rstanarm/)
 
 # Publications
 <details>
 <summary>Education-related publications on Stan</summary><p>
 
 <small>
-* Robert L. Grant, Daniel C. Furr, Bob Carpenter, and Andrew Gelman. 2016. Fitting Bayesian item response models in Stata and Stan. arXiv 1601.03443.</small>
+..* Robert L. Grant, Daniel C. Furr, Bob Carpenter, and Andrew Gelman. 2016. Fitting Bayesian item response models in Stata and Stan. arXiv 1601.03443.</small>
 
 <small>
-* Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
+..* Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
 </small>
 
 </p></details>
@@ -49,27 +49,8 @@ image:
 <details>
 <summary>Education-related publications using Stan</summary><p>
 <small>
-* Gale, Julia, et al. "Student nurse selection and predictability of academic success: The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127.
+..* Gale, Julia, et al. "Student nurse selection and predictability of academic success: The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127.
 
-* Tan, Jessica Yik Chian. 2013. Mathematical modelling and statistical analysis of school-based student performance data. Thesis. School of Mathematical Sciences. University of Adelaide. https://digital.library.adelaide.edu.au/dspace/handle/2440/83277
+..* Tan, Jessica Yik Chian. 2013. Mathematical modelling and statistical analysis of school-based student performance data. Thesis. School of Mathematical Sciences. University of Adelaide. https://digital.library.adelaide.edu.au/dspace/handle/2440/83277
 </small>
 </p></details>
-
-<details>
-<summary>Possible papers and “leads”</summary><p>
-<small>
-* Johan Braeken at CEMO, Norway 
-
-* Bayesian Estimation of a Null Category in a Constructed-Response Item. Yong He, Ruitao Liu, Zhongmin Cui (NCME presentation)
-
-* http://scholar.princeton.edu/sites/default/files/bstewart/files/tensorreg.pdf
-
-* http://www.thoughtfill.com/docs/yurovsky_doyle_frank_ur.pdf
-
-
-* Jonathan M. Fawcett and Michael A. Lawrence and Tracy L. Taylor. 2016. The representational consequences of intentional forgetting: Impairments to both the probability and fidelity of long-term memory. Journal Of Experimental Psychology: General 145(1):56–81.
-
-* Nicenboim, Bruno, Pavel Logačev, Carolina Gattei, and Shravan Vasishth. 2016. When high-capacity readers slow down and low-capacity readers speed up: Working memory differences in unbounded dependencies. Frontiers in Psychology, Special Issue on Encoding and Navigating Linguistic Representations in Memory (in press).
-</small>
-</p>
-</details>
