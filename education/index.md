@@ -49,10 +49,12 @@ Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programm
 </details>
 
 <details>
-<summary>Education-related publications using Stan</summary><p>
-<small>
-> Gale, Julia, et al. "Student nurse selection and predictability of academic success: The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127.
+<summary>Education-related publications using Stan</summary>
 
-> Tan, Jessica Yik Chian. 2013. Mathematical modelling and statistical analysis of school-based student performance data. Thesis. School of Mathematical Sciences. University of Adelaide. https://digital.library.adelaide.edu.au/dspace/handle/2440/83277
-</small>
-</p></details>
+<ul>
+<li><p><small> Gale, Julia, et al. "Student nurse selection and predictability of academic success: The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127. </small></p></li>
+
+<li>
+<p><small> Tan, Jessica Yik Chian. 2013. Mathematical modelling and statistical analysis of school-based student performance data. Thesis. School of Mathematical Sciences. University of Adelaide. https://digital.library.adelaide.edu.au/dspace/handle/2440/83277 </small></p></li></ul>
+
+</details>
