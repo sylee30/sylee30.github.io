@@ -35,7 +35,7 @@ image:
 
 # Publications
 <details>
-<summary>Education-related publications on Stan</summary><p>
+<summary>Education-related publications on Stan</summary>
 
 <small>
 > Robert L. Grant, Daniel C. Furr, Bob Carpenter, and Andrew Gelman. 2016. Fitting Bayesian item response models in Stata and Stan. arXiv 1601.03443.</small>
@@ -44,7 +44,7 @@ image:
 > Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
 </small>
 
-</p></details>
+</details>
 
 <details>
 <summary>Education-related publications using Stan</summary><p>
