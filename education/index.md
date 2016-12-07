@@ -32,6 +32,7 @@ image:
 # R packages
 * [edstan: Stan Models for Item Response Theory](https://cran.rstudio.com/web/packages/edstan/)
 * [rstanarm: Bayesian Applied Regression Modeling via Stan](https://cran.rstudio.com/web/packages/rstanarm/)
+  * [Webinar "Introduction to Bayesian Computation Using the rstanarm Package"](http://stan.fit/2016/11/26/intro-to-rstanarm-webinar)
 
 # Publications
 <details>
