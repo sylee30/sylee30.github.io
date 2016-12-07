@@ -40,12 +40,13 @@ image:
 
 
 <ul>
-<li><p><small>Robert L. Grant, Daniel C. Furr, Bob Carpenter, and Andrew Gelman. 2016. Fitting Bayesian item response models in Stata and Stan. arXiv 1601.03443.</small></p></li>
+<li><p><small>Grant, R. L., Furr, D. C., Carpenter, B., & Gelman, A. (2016). Fitting Bayesian item response models in Stata and Stan. arXiv preprint arXiv:1601.03443.</small></p></li>
 
 <li>
 <p><small>
-Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
+Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
 </small></p></li></ul>
+
 
 </details>
 
@@ -53,9 +54,22 @@ Andrew Gelman, Daniel Lee, and Jiqiang Guo. 2016. Stan: A probabilistic programm
 <summary>Education-related publications using Stan</summary>
 
 <ul>
-<li><p><small> Gale, Julia, et al. "Student nurse selection and predictability of academic success: The Multiple Mini Interview project." Nurse Education Today 40 (2016): 123-127. </small></p></li>
+<li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse education today, 40, 123-127. </small></p></li>
 
 <li>
-<p><small> Tan, Jessica Yik Chian. 2013. Mathematical modelling and statistical analysis of school-based student performance data. Thesis. School of Mathematical Sciences. University of Adelaide. https://digital.library.adelaide.edu.au/dspace/handle/2440/83277 </small></p></li></ul>
+<p><small> Tan, J. Y. C. (2013). Mathematical modelling and statistical analysis of school-based student performance data (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li></ul>
+
 
 </details>
+
+
+<details>
+<summary>Books</summary>
+
+<ul>
+<li><p><small> McElreath, R. (2016). Statistical rethinking: A Bayesian course with examples in R and Stan (Vol. 122). CRC Press. </small></p></li>
+</ul>
+
+</details>
+
+If you know further publications, please contact Sophia Rabe-Hesketh [(sophiarh@berkeley.edu).](sophiarh@berkeley.edu)
