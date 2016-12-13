@@ -27,12 +27,12 @@ image:
 
 * Cognitive Diagnosis Models
     * [DINA with independent attributes](case-studies/dina_independence.html) 
-    * Higher-order DINA
 
 # R packages
 * [edstan: Stan Models for Item Response Theory](https://cran.rstudio.com/web/packages/edstan/)
 * [rstanarm: Bayesian Applied Regression Modeling via Stan](https://cran.rstudio.com/web/packages/rstanarm/)
   * [Webinar "Introduction to Bayesian Computation Using the rstanarm Package"](http://stan.fit/2016/11/26/intro-to-rstanarm-webinar)
+* [rethinking: Statistical Rethinking course and book package](https://github.com/rmcelreath/rethinking)
 
 # Publications
 <details>
@@ -40,24 +40,22 @@ image:
 
 
 <ul>
-<li><p><small>Grant, R. L., Furr, D. C., Carpenter, B., & Gelman, A. (2016). Fitting Bayesian item response models in Stata and Stan. arXiv preprint arXiv:1601.03443.</small></p></li>
+<li><p><small>Grant, R. L., Furr, D. C., Carpenter, B., & Gelman, A. (2016). Fitting Bayesian item response models in Stata and Stan. arXiv preprint arXiv:1601.03443. In press. </small></p></li>
 
 <li>
 <p><small>
-Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics.
+Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming language for Bayesian inference and optimization. Journal of Educational and Behavioral Statistics, 40, 530-543.
 </small></p></li></ul>
-
-
 </details>
 
 <details>
 <summary>Education-related publications using Stan</summary>
 
 <ul>
-<li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse education today, 40, 123-127. </small></p></li>
+<li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse Education Today, 40, 123-127. </small></p></li>
 
 <li>
-<p><small> Tan, J. Y. C. (2013). Mathematical modelling and statistical analysis of school-based student performance data (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li></ul>
+<p><small> Tan, J. Y. C. (2013). [Mathematical modelling and statistical analysis of school-based student performance data](http://hdl.handle.net/2440/83277) (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li></ul>
 
 
 </details>
@@ -67,7 +65,7 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 <summary>Books</summary>
 
 <ul>
-<li><p><small> McElreath, R. (2016). Statistical rethinking: A Bayesian course with examples in R and Stan (Vol. 122). CRC Press. </small></p></li>
+<li><p><small> McElreath, R. (2016). [Statistical rethinking: A Bayesian course with examples in R and Stan](http://xcelab.net/rm/statistical-rethinking/) (Vol. 122). CRC Press. </small></p></li>
 </ul>
 
 </details>
