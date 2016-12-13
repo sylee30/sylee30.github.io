@@ -55,7 +55,7 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 <li><p><small> Gale, J., Ooms, A., Grant, R., Paget, K., & Marks-Maran, D. (2016). Student nurse selection and predictability of academic success: The Multiple Mini Interview project. Nurse Education Today, 40, 123-127. </small></p></li>
 
 <li>
-<p><small> Tan, J. Y. C. (2013). [Mathematical modelling and statistical analysis of school-based student performance data](http://hdl.handle.net/2440/83277) (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li></ul>
+<p><small> Tan, J. Y. C. (2013). <A href="http://hdl.handle.net/2440/83277">Mathematical modelling and statistical analysis of school-based student performance data</A> (Doctoral dissertation). School of Mathematical Sciences, University of Adelaide, Adelaide, South Australia. </small></p></li></ul>
 
 
 </details>
@@ -65,7 +65,7 @@ Gelman, A., Lee, D., & Guo, J. (2015). Stan: A probabilistic programming languag
 <summary>Books</summary>
 
 <ul>
-<li><p><small> McElreath, R. (2016). [Statistical rethinking: A Bayesian course with examples in R and Stan](http://xcelab.net/rm/statistical-rethinking/) (Vol. 122). CRC Press. </small></p></li>
+<li><p><small> McElreath, R. (2016). <A href="http://xcelab.net/rm/statistical-rethinking/">Statistical rethinking: A Bayesian course with examples in R and Stan</A> (Vol. 122). CRC Press. </small></p></li>
 </ul>
 
 </details>
